@@ -1,7 +1,6 @@
 <h4 align="left">
-  🖤 Yo GitHub ! I'm <strong>Julien</strong> — a creative mind who loves to tinker with Linux systems, code cool stuff, and explore the world of data science. <br><br>
+  Yo GitHub ! I'm <strong>Julien</strong> — a creative mind who loves to tinker with Linux systems, code cool stuff, and explore the world of data science. <br><br>
   Whether it’s building IoT setups, messing with electronics, crafting AI models, or just writing beautiful code — I’m in. This space is where I share my <strong>projects</strong>, my <strong>passions</strong>, and a slice of my daily tech life. <br><br>
-  ⚡️ Wanna see more? Check out my portfolio 👉 <a href="https://julienkolani.dev" target="_blank">julienkolani.dev</a>
 </h4>
 
 ###
