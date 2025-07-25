@@ -1,7 +1,7 @@
-<h4 align="left">
+<h5 align="left">
   Yo GitHub ! I'm <strong>Julien</strong> — a creative mind who loves to tinker with Linux systems, code cool stuff, and explore the world of data science. <br><br>
   Whether it’s building IoT setups, messing with electronics, crafting AI models, or just writing beautiful code — I’m in. This space is where I share my <strong>projects</strong>, my <strong>passions</strong>, and a slice of my daily tech life. <br><br>
-</h4>
+</h5>
 
 ###
 
@@ -54,17 +54,14 @@
 ###
 
 <div align="center">
-  <a href="julienKolani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://julienkolani.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=FirefoxBrowser&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio link" />
   </a>
   <a href="mailto:julienkolani0@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/julien-kolani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://julienkolani.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=FirefoxBrowser&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio link" />
   </a>
 </div>
 
