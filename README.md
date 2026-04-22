@@ -1,6 +1,6 @@
 <h5 align="left">
-  Yo GitHub ! I'm <strong>Julien</strong> — a creative mind who loves to tinker with Linux systems, code cool stuff, and explore the world of data science. <br><br>
-  Whether it’s building IoT setups, messing with electronics, crafting AI models, or just writing beautiful code — I’m in. This space is where I share my <strong>projects</strong>, my <strong>passions</strong>, and a slice of my daily tech life. <br><br>
+  Yo GitHub ! I'm <strong>Julien</strong> - a creative mind who loves to tinker with Linux systems, code cool stuff, and explore the world of data science. <br><br>
+  Whether it’s building IoT setups, messing with electronics, crafting AI models, or just writing beautiful code - I’m in. This space is where I share my <strong>projects</strong>, my <strong>passions</strong>, and a slice of my daily tech life. <br><br>
 </h5>
 
 ###
